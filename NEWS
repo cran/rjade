@@ -1,0 +1,3 @@
+0.1
+ - Workaround for UTF-8 on Windows.
+ - Initial release.

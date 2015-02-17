@@ -1,0 +1,15 @@
+6a986a815f98f8007f030162fcc34ebe *DESCRIPTION
+2b11af982e62e96e928587e70fe113fa *LICENSE
+d72fcb755f93237fe05ffd27d5b18f6e *NAMESPACE
+c4eb7efc721312dc8b22a987edf5a151 *NEWS
+8c1692398e39f8b4625b45ebb4c7c40a *R/jade.R
+332011ee6a5ac4c72e877469c9d32a66 *R/onLoad.R
+c0edb718cdbc0fca3e2ade931fb02b06 *build/vignette.rds
+fd0877302ddd69fba1c321e77b84e362 *inst/doc/intro.R
+7b57181160c82d85517f912fc1dcf3df *inst/doc/intro.Rmd
+86115ae01b35e81f32f88f0f572e100f *inst/doc/intro.html
+a1481664636f89f1d810d18a7738fb2e *inst/examples/test.jade
+4cc3593cbbd03190d83c038ae742c84f *inst/js/bindings.js
+542d2caa5bf14f6782fe7d5a7848f57f *inst/js/jade.min.js
+2e16038dc1c674783c47f042cc47d36c *man/jade.Rd
+7b57181160c82d85517f912fc1dcf3df *vignettes/intro.Rmd
